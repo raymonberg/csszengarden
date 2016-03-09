@@ -1,0 +1,30 @@
+body{
+	background-color: #E4E4E4;	
+}
+
+
+
+
+
+#star {
+
+    height: 921px;
+    left: 50%;
+    margin-left: -461.5px;
+    position: fixed;
+    top: 60px;
+    width: 923px;
+	
+
+}
+
+#robot{
+    height: 949px;
+    left: 50%;
+    margin-left: -215px;
+    position: fixed;
+    top: 165px;
+    width: 429px;
+	  z-index: 1;
+  
+}
